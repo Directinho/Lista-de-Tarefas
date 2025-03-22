@@ -7,7 +7,7 @@ Bem-vindo à nossa **📝Lista de tarefas**! Este é um site divertido para list
 - Marcar como concluída** ✅: Clique no botão “Complete” (Concluir) para riscar a tarefa e marcá-la como concluída.
 - Remover tarefa ❌: Se você quiser excluir uma tarefa da lista, clique no botão remover e pronto!
 
-<h2>Como usar o 🧑‍💻</h2>
+<h2>Como usar 🤓</h2>
 
 1. Escreva a tarefa no campo de entrada.
 2. Clique em adicionar para adicionar a tarefa à lista. ✨
