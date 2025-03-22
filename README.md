@@ -9,8 +9,8 @@ Bem-vindo à nossa **📝Lista de tarefas**! Este é um site divertido para list
 
 <h2>Como usar o 🧑‍💻</h2>
 
-1. **Escreva a tarefa no campo de entrada.
-2. **Clique em adicionar para adicionar a tarefa à lista. ✨
+1. Escreva a tarefa no campo de entrada.
+2. Clique em adicionar para adicionar a tarefa à lista. ✨
 3. Para marcar uma tarefa como concluída, **clique em “Complete ”**. ✅
 4. Para **remover a tarefa**, clique em remover ❌
 
